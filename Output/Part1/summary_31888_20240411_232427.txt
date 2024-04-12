@@ -1,0 +1,59 @@
+Input LOS:
+"The member should be able to: describe the roles of equities in the overall portfolio; describe how an equity managerâ€™s investment universe can be segmented; describe the types of income and costs associated with owning and managing an equity
+                     portfolio and their potential effects on portfolio performance; describe the potential benefits of shareholder engagement and the role an equity manager
+                     might play in shareholder engagement; describe rationales for equity investment across the passiveâ€“active spectrum."
+
+
+Output Summary:
+
+
+# Technical Note: Understanding Equities in Portfolio Management
+
+Equities, also known as stocks, play a crucial role in the overall portfolio management. Equities refer to ownership in a company and provide investors with the opportunity to earn returns through capital appreciation and dividends. This technical note will discuss the key components of the above mentioned learning outcome statement (LOS) to help understand equities in portfolio management.
+
+## Roles of Equities in the Overall Portfolio
+
+Equities are an important component of a well-diversified portfolio as they offer potential for higher returns compared to other asset classes such as fixed income or cash. However, they also carry higher risks due to their volatile nature. The main roles of equities in the overall portfolio are:
+
+- **Capital Appreciation:** The primary objective of investing in equities is to earn capital appreciation, which is the increase in the stock price over time. This can be achieved through buying undervalued stocks and selling them at a higher price.
+- **Dividend Income:** Companies distribute a portion of their profits to shareholders in the form of dividends. This provides investors with a steady stream of income, making equities an attractive source of passive income.
+- **Inflation Hedge:** Equities have the potential to outpace inflation, thus providing a hedge against rising prices.
+- **Diversification:** By investing in equities, investors can diversify their portfolio, reducing overall risk. This is because equities have a low correlation with other asset classes such as bonds and real estate.
+
+## Equity Manager's Investment Universe
+
+The investment universe of an equity manager refers to the broad range of investment opportunities available to them. This can be segmented into different categories based on various factors, including:
+
+- **Market Capitalization:** Companies can be classified into different categories based on their market capitalization, which is the total value of all outstanding shares of a company. These categories include large-cap, mid-cap, and small-cap companies. The size of a company can impact its growth potential and risk profile.
+- **Geography:** Equity markets can be classified based on the geographical location of the companies. This includes domestic markets, such as the US or UK, and international markets, such as emerging markets.
+- **Sector/Industry:** Companies can also be grouped based on the industry in which they operate. For example, technology, healthcare, or consumer staples.
+- **Investment Style:** Some managers may choose to focus on specific investment styles, such as value investing or growth investing. This can impact the types of companies and stocks they invest in.
+
+## Income and Costs Associated with Owning and Managing an Equity Portfolio
+
+Owning and managing an equity portfolio comes with various types of income and costs that can impact portfolio performance. Some of the key types of income and costs are:
+
+### Income
+
+- **Dividends:** As mentioned earlier, companies can distribute a portion of their profits to shareholders in the form of dividends. These dividends can be reinvested or used as a source of income.
+- **Capital Gains:** When an investor sells a stock at a higher price than what they paid for it, they earn a capital gain. This can add to the overall return of the portfolio.
+
+### Costs
+
+- **Transaction Costs:** Buying and selling stocks come with transaction costs, such as brokerage fees and taxes. These costs can eat into the overall returns of the portfolio.
+- **Management Fees:** Equity managers charge a fee for managing the portfolio, usually a percentage of assets under management. This fee can impact the overall performance of the portfolio.
+- **Taxes:** Depending on the tax laws in the country where the portfolio is managed, investors may have to pay taxes on their capital gains and dividends.
+
+## Shareholder Engagement and Equity Manager's Role
+
+Shareholder engagement refers to the process of actively involving shareholders in the decision-making process of a company. This can include voting on important issues and communicating with management to voice concerns and suggestions. The potential benefits of shareholder engagement include:
+
+- **Influence on Corporate Decisions:** Shareholder engagement can give investors a voice in important decisions that may impact the company's performance and ultimately, the value of their investments.
+- **Transparency and Accountability:** By engaging with management, shareholders can gain a better understanding of the company's operations and financials, ensuring transparency and accountability.
+- **Alignment of Interests:** Shareholder engagement can help align the interests of management and shareholders, leading to better decision-making and potentially higher returns.
+
+Equity managers play a crucial role in shareholder engagement by acting as a proxy between the shareholders and the company's management. They can use their expertise and resources to engage with companies on behalf of their clients, advocating for their interests and promoting good corporate governance.
+
+## Rationales for Equity Investment Across the Passive-Active Spectrum
+
+Equity investment can be done through passive or active strategies, each with its own rationale. Passive investing involves investing in a market index, such as the S&P 500, and aims to replicate the performance of the overall market. Active investing, on the other hand, involves actively selecting and managing

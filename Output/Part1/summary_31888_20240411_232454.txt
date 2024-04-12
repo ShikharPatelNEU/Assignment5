@@ -1,0 +1,77 @@
+Input LOS:
+"The member should be able to: compare top-down, bottom-up, and hybrid approaches for developing inputs to equity
+                     valuation models; compare â€œgrowth relative to GDP growthâ€ and â€œmarket growth and market shareâ€ approaches
+                     to forecasting revenue; evaluate whether economies of scale are present in an industry by analyzing operating
+                     margins and sales levels; forecast the following costs: cost of goods sold, selling general and administrative
+                     costs, financing costs, and income taxes; describe approaches to balance sheet modeling; describe the relationship between return on invested capital and competitive advantage; explain how competitive factors affect prices and costs; judge the competitive position of a company based on a Porterâ€™s five forces analysis; explain how to forecast industry and company sales and costs when they are subject
+                     to price inflation or deflation; evaluate the effects of technological developments on demand, selling prices, costs,
+                     and margins; explain considerations in the choice of an explicit forecast horizon; explain an analystâ€™s choices in developing projections beyond the short-term forecast
+                     horizon; demonstrate the development of a sales-based pro forma company model."
+
+
+Output Summary:
+
+
+# Technical Note: Equity Valuation and Forecasting
+
+Equity valuation is a process of determining the value of a company's stock or shares. It involves analyzing various factors such as financial statements, market trends, and industry conditions to determine the intrinsic value of a company's shares. Forecasting, on the other hand, is the process of predicting future financial performance based on past data and current trends.
+
+This technical note will focus on the key learning outcome statement (LOS) which covers various aspects of equity valuation and forecasting. The LOS includes the following topics:
+
+1. Approaches for developing inputs to equity valuation models
+2. Forecasting revenue using different approaches
+3. Analyzing economies of scale in an industry
+4. Forecasting costs, including cost of goods sold, selling general and administrative costs, financing costs, and income taxes
+5. Balance sheet modeling
+6. Relationship between return on invested capital and competitive advantage
+7. Impact of competitive factors on prices and costs
+8. Evaluating a company's competitive position using Porter's five forces analysis
+9. Forecasting industry and company sales and costs in the presence of price inflation or deflation
+10. Effects of technological developments on demand, selling prices, costs, and margins
+11. Considerations in choosing an explicit forecast horizon
+12. Developing projections beyond the short-term forecast horizon
+13. Sales-based pro forma company model development
+
+## Approaches for Developing Inputs to Equity Valuation Models
+
+Equity valuation models are used to estimate the intrinsic value of a company's shares. The key inputs to these models include the company's financial statements, market trends, and industry conditions. There are three main approaches to developing inputs for equity valuation models: top-down, bottom-up, and hybrid.
+
+### Top-Down Approach
+
+The top-down approach involves analyzing the overall economy and market trends to determine the value of a company's shares. This approach starts with analyzing macroeconomic factors such as GDP growth, interest rates, and inflation, which have a significant impact on the stock market. The analyst then narrows down the analysis to the specific industry in which the company operates and finally to the company itself. The top-down approach is useful for evaluating companies in cyclical industries where the overall economy has a significant impact on their performance.
+
+### Bottom-Up Approach
+
+The bottom-up approach, on the other hand, starts with analyzing the company's fundamentals, such as financial statements, management, and competitive advantage. The analyst then considers the industry in which the company operates and finally the overall economy. This approach is more suitable for analyzing companies in stable industries with less dependency on the overall economy.
+
+### Hybrid Approach
+
+The hybrid approach combines both top-down and bottom-up approaches. It starts with analyzing the overall economy and market trends, then focuses on the industry, and finally on the company's fundamentals. This approach is useful for companies operating in industries that are moderately impacted by changes in the overall economy.
+
+## Forecasting Revenue
+
+Forecasting revenue is a critical aspect of equity valuation as it is a key driver of a company's value. Two common approaches to forecasting revenue are "growth relative to GDP growth" and "market growth and market share."
+
+### Growth Relative to GDP Growth
+
+This approach assumes that a company's revenue growth is correlated with GDP growth. The analyst forecasts the GDP growth rate and then applies a multiplier to estimate the company's revenue growth rate. This approach is suitable for companies with a stable market share and limited competition.
+
+### Market Growth and Market Share
+
+This approach assumes that a company's revenue growth is driven by the overall market growth and its market share. The analyst forecasts the market growth rate and then estimates the company's market share to determine its revenue growth rate. This approach is useful for companies operating in highly competitive industries where market share is critical.
+
+## Analyzing Economies of Scale in an Industry
+
+Economies of scale refer to the cost advantages that a company gains by producing at a larger scale. In the equity valuation process, it is essential to analyze whether economies of scale are present in the industry in which the company operates. This analysis is done by comparing the company's operating margins and sales levels to its competitors. If the company has higher operating margins and sales levels, it indicates the presence of economies of scale.
+
+## Forecasting Costs
+
+Forecasting costs is an important aspect of equity valuation as it directly impacts a company's profitability. The key costs that need to be forecasted are the cost of goods sold, selling general and administrative costs, financing costs, and income taxes.
+
+### Cost of Goods Sold
+
+The cost of goods sold (COGS) is the direct cost of producing goods or services. It includes the cost of raw materials, labor, and overhead expenses. COGS is forecasted by considering the historical trend, industry conditions, and changes in input prices.
+
+### Selling General and Administrative Costs
+
+Selling general and administrative costs (SG&A) are indirect costs related to the company's operations, such as advertising, sales commissions, and administrative expenses. SG&A costs are forecasted by analyzing historical trends and industry
