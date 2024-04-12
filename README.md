@@ -6,6 +6,7 @@ Development of a Structured Database and Text Extraction System for Finance Prof
 [![workflow_architecture](https://img.shields.io/badge/workflow_architecture-FC6600?style=for-the-badge&logo=jupyter&logoColor=white)](https://colab.research.google.com/drive/15hzHqTEWEA3mODdOzBBs7hKNeoz7Bj7d#scrollTo=yO3GCFVqjeoF)
 [![knowledge_summaries](https://img.shields.io/badge/knowledge_summaries-FC6600?style=for-the-badge&logo=jupyter&logoColor=white)](https://colab.research.google.com/drive/1z_bdJxOZ216nw997gTckQT6ZLWcJr4jP?usp=sharing)
 [![Generate_Q&A](https://img.shields.io/badge/Generate_Q&A-FC6600?style=for-the-badge&logo=jupyter&logoColor=white)](https://colab.research.google.com/drive/1fSoI3f0jRflBNtc3EdGbU76-oyPbj3-A?usp=sharing)
+[![Similarity_Search](https://img.shields.io/badge/Similarity_Search-FC6600?style=for-the-badge&logo=jupyter&logoColor=white)](https://colab.research.google.com/drive/1fSoI3f0jRflBNtc3EdGbU76-oyPbj3-A?usp=sharing)
 
 
 ## Problem Statement
@@ -23,8 +24,8 @@ experiments to see if the results can actually be operationalized in the enterpr
 [![Selenium](https://img.shields.io/badge/Selenium-39e75f?style=for-the-badge&logo=selenium&logoColor=blue)](https://www.selenium.dev/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-fa722a?style=for-the-badge&logo=python&logoColor=white)](https://docs.streamlit.io/)
-[![Pinecone](https://img.shields.io/badge/Pinecone-1c1c1c?style=for-the-badge&logo=pine&logoColor=white)](https://www.pinecone.io/?utm_term=pinecone%20database&utm_campaign=Brand+-+US/Canada&utm_source=adwords&utm_medium=ppc&hsa_acc=3111363649&hsa_cam=21023369441&hsa_grp=167470667468&hsa_ad=690982708943&hsa_src=g&hsa_tgt=kwd-1627713670725&hsa_kw=pinecone%20database&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=CjwKCAjwt-OwBhBnEiwAgwzrUqWwAX2KRT_VT2YCfNeJGp1uNdvpuljxFcbGdjYs1NQJbTj5vkk1OhoCTw8QAvD_BwE)
-[![Open_AI](https://img.shields.io/badge/OpenAI-1c1c1c?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/)
+[![Pinecone](https://img.shields.io/badge/Pinecone-1c1c1c?style=for-the-badge&logo=pine&logoColor=black)](https://www.pinecone.io/?utm_term=pinecone%20database&utm_campaign=Brand+-+US/Canada&utm_source=adwords&utm_medium=ppc&hsa_acc=3111363649&hsa_cam=21023369441&hsa_grp=167470667468&hsa_ad=690982708943&hsa_src=g&hsa_tgt=kwd-1627713670725&hsa_kw=pinecone%20database&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=CjwKCAjwt-OwBhBnEiwAgwzrUqWwAX2KRT_VT2YCfNeJGp1uNdvpuljxFcbGdjYs1NQJbTj5vkk1OhoCTw8QAvD_BwE)
+[![Open_AI](https://img.shields.io/badge/OpenAI-1c1c1c?style=for-the-badge&logo=openai&logoColor=green)](https://openai.com/)
 
 
 
