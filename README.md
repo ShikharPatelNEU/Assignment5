@@ -47,10 +47,10 @@ https://github.com/openai/openai-cookbook/tree/main/examples/vector_databases<br
 
 ## Learning Outcomes
 *Through this project, we will leverage Pinecone and OpenAI api’s for:<br>*
-*1. Creating knowledge summaries using OpenAI’s GPT*
-*2. Generating a knowledge base (Q/A) providing context*
-*3. Using a vector database to find and answer questions.*
-*4. Use the knowledge summaries from 1 to answer questions.*
+*1. Creating knowledge summaries using OpenAI’s GPT*<br>
+*2. Generating a knowledge base (Q/A) providing context*<br>
+*3. Using a vector database to find and answer questions.*<br>
+*4. Use the knowledge summaries from 1 to answer questions.*<br>
 
 ## Team Information and Contribution 
 
