@@ -4,3 +4,5 @@ streamlit
 python-dotenv
 langchain
 langchain_pinecone
+pinecone-client
+boto3
