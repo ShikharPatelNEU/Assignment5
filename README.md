@@ -5,6 +5,7 @@ Development of a Structured Database and Text Extraction System for Finance Prof
 [![codelabs](https://img.shields.io/badge/codelabs-4285F4?style=for-the-badge&logo=codelabs&logoColor=white)]( https://codelabs-preview.appspot.com/?file_id=11RAbeC36bhyxd02Jn-SgXHzEH83_TUOGNOXyD155i3I#0)
 [![workflow_architecture](https://img.shields.io/badge/workflow_architecture-FC6600?style=for-the-badge&logo=jupyter&logoColor=white)](https://colab.research.google.com/drive/15hzHqTEWEA3mODdOzBBs7hKNeoz7Bj7d#scrollTo=yO3GCFVqjeoF)
 [![knowledge_summaries](https://img.shields.io/badge/knowledge_summaries-FC6600?style=for-the-badge&logo=jupyter&logoColor=white)](https://colab.research.google.com/drive/1z_bdJxOZ216nw997gTckQT6ZLWcJr4jP?usp=sharing)
+[![Generate_Q&A](https://img.shields.io/badge/Generate_Q&A-FC6600?style=for-the-badge&logo=jupyter&logoColor=white)](https://colab.research.google.com/drive/1fSoI3f0jRflBNtc3EdGbU76-oyPbj3-A?usp=sharing)
 
 
 ## Problem Statement
