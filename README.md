@@ -56,6 +56,7 @@ Output
 │  ├─ Part2
 │  ├─ Part3
 │  └─ Part4
+|   -Streamlit
 └─ Images
    ├─ architecture.png
    ├─ combined_summaries_s3.png
