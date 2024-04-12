@@ -31,7 +31,7 @@ experiments to see if the results can actually be operationalized in the enterpr
 *The data source is the [CFA Institute's Refresher Readings](https://www.cfainstitute.org/membership/professional-development/refresher-readings/#sort=%40refreadingcurriculumyear%20descending)* and the provided PDF files.
 
 ## Architecture Workflow
-![Workflow](https://github.com/BigDataIA-Spring2024-Sec1-Team5/Assignment5/blob/main/Images/architecture.jpg)
+![Workflow](https://github.com/BigDataIA-Spring2024-Sec1-Team5/Assignment5/blob/main/Images/architecture.png)
 
 ## Pre requisites
 *Installed Libraries of Python, Pinecone, OpenAI, Langchain, Streamlit. <br>
