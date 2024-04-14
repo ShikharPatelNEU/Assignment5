@@ -1,6 +1,8 @@
 # Assignment5
 Development of a Structured Database and Text Extraction System for Finance Professional Development Resources
 
+Youtube link: https://www.youtube.com/watch?v=apNswfYcxi8
+
 ## Live application Links
 [![codelabs](https://img.shields.io/badge/codelabs-4285F4?style=for-the-badge&logo=codelabs&logoColor=white)]( https://codelabs-preview.appspot.com/?file_id=11RAbeC36bhyxd02Jn-SgXHzEH83_TUOGNOXyD155i3I#0)
 [![workflow_architecture](https://img.shields.io/badge/workflow_architecture-FC6600?style=for-the-badge&logo=jupyter&logoColor=white)](https://colab.research.google.com/drive/15hzHqTEWEA3mODdOzBBs7hKNeoz7Bj7d#scrollTo=yO3GCFVqjeoF)
