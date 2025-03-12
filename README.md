@@ -1,4 +1,4 @@
-# Assignment5
+# Knowledge Retrieval Analysis System
 Development of a Structured Database and Text Extraction System for Finance Professional Development Resources
 
 Team 5 Assignment 5 Demo Recording Youtube link: https://www.youtube.com/watch?v=apNswfYcxi8
